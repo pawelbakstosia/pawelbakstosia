@@ -1,0 +1,84 @@
+IPTV POLAND CHANNELS
+
+#EXTM3U
+#EXTINF:0 type=”stream” channelId=”1524″ , TVP1 HD
+http://193.93.70.113:4022/udp/239.255.1.23:1234
+#EXTINF:0 type=”stream” channelId=”1525″ , TVP2 HD
+http://193.93.70.113:4022/udp/239.255.1.24:1234
+#EXTINF:0 type=”stream” channelId=”2373″ , POLSAT
+http://193.93.70.113:4022/udp/239.255.1.14:1234
+#EXTINF:0 type=”stream” channelId=”3266″ , Polsat Play HD
+http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8
+#EXTINF:0 type=”stream” , Polsat Cafe HD
+http://hls.redefine.pl/66C13FD2/11441/0/hls720/masterlist.m3u8
+#EXTINF:0 type=”stream” , POLSAT NEWS 2 HD
+http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+#EXTINF:0 type=”stream” channelId=”2344″ , TVN
+http://193.93.70.113:4022/udp/239.255.1.3:1234
+#EXTINF:0 type=”stream” channelId=”2348″ , TVN7
+http://193.93.70.113:4022/udp/239.255.1.10:1234
+#EXTINF:0 type=”stream” channelId=”1522″ , TVP INFO
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:0 type=”stream” , TV4
+http://193.93.70.113:4022/udp/239.255.1.15:1234
+#EXTINF:0 type=”stream” , WTK
+http://wtk.live-ext.e55-po.insyscd.net/wtk.smil/playlist.m3u8
+#EXTINF:0 type=”stream” channelId=”3262″ , Polsat Sport HD
+http://hls.redefine.pl/FF8EFB29/1503/0/hls720/masterlist.m3u8
+#EXTINF:0 type=”stream” channelId=”2376″ , Polsat Sport Extra HD
+http://hls.redefine.pl/075AB82E/1504/0/hls720/masterlist.m3u8
+#EXTINF:0 type=”stream” channelId=”2347″ , Polsat Sport News
+http://hls.redefine.pl/780CB41F/13227/0/hls720/720p/list.m3u8
+#EXTINF:0 type=”stream” channelId=”3197″ , Polsat Sport Fight
+http://hls.redefine.pl/1A4514F5/12311/0/hls720/masterlist.m3u8
+#EXTINF:0 type=”stream” channelId=”2926″ , FilmBox Extra HD
+http://hls.redefine.pl/9BAC29DD/1570/0/hls720/masterlist.m3u8
+#EXTINF:0 type=”stream” channelId=”3187″ , FilmBox Action
+http://hls.redefine.pl/478676E7/11313/0/hls576/masterlist.m3u8
+#EXTINF:0 type=”favorites” channelId=”3177″ , Nowa TV
+http://193.32.36.27:15731
+#EXTINF:0 type=”favorites” channelId=”1569″ , 8TV
+http://193.32.36.27:14931
+#EXTINF:0 type=”stream” channelId=”935″ , HBO2
+http://wstip-1.dyndns-free.com:1200/0701
+#EXTINF:0 type=”stream” channelId=”2382″ , Superstacja
+http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8
+#EXTINF:0 type=”stream” , MTV Polska
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_polska__1/10253/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:0 type=”stream” , 4FUN TV
+http://hls.redefine.pl/894619ED/1579/0/hls576/masterlist.m3u8
+#EXTINF:0 type=”stream” , 4FUN DANCE
+http://hls.redefine.pl/99520853/1576/0/hls576/masterlist.m3u8
+#EXTINF:0 type=”stream” , Virgin Radio TV
+rtmp://fms.105.net:1935/live/virgin1
+#EXTINF:0 type=”stream” channelId=”3176″ , WP
+https://av-cdn-2.wpimg.pl/tv24/ngrp:wp1/chunklist_.m3u8
+#EXTINF:0 type=”stream” , Twoja TV
+http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:0 type=”stream” , TV Asta
+http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 type=”stream” , JAZMIN TV
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:0 type=”stream” , UHD 4K
+http://rtmp.one.by:1400
+#EXTINF:0 type=”stream” channelId=”2429″ , CBS Action
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/cbs_action_1/11321/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:0 type=”stream” channelId=”2428″ , CBS Europa
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/cbs_europa_hd_1/11385/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:0 type=”stream” channelId=”324″ , CBS Reality
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/cbs_reality_1/11319/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:0 type=”stream” channelId=”235″ , Travel Channel HD
+http://n-1-35.dcs.redcdn.pl/hls/o2/redefine/nlive/travel_hd_1/11393/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:0 type=”stream” channelId=”3270″ , Polsat Viasat Nature
+http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8
+#EXTINF:0 type=”stream” channelId=”3272″ , Polsat Viasat Explore HD
+http://hls.redefine.pl/00643E2B/4196/0/hls720/masterlist.m3u8
+#EXTINF:0 type=”stream” channelId=”3271″ , Polsat Viasat History HD
+http://hls.redefine.pl/C1F25A0A/4194/0/hls720/masterlist.m3u8
+#EXTINF:0 type=”stream” channelId=”2054″ , SUNDANCE.TV
+http://hls.redefine.pl/E1BE2FA1/3245/0/hls720/720p/list.m3u8
+#EXTINF:0 type=”stream” , WATTER PLANET
+http://hls.redefine.pl/1D8B4940/11286/0/hls576/576p/list.m3u8
+#EXTINF:0 type=”stream” channelId=”1200″ , LIFE-TIME
+http://hls.redefine.pl/BF9ACBBA/11376/0/hls720/720p/list.m3u8
+
