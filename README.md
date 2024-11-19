@@ -1,16 +1,6 @@
-## Hi there 👋https://github.com/pawelbakstosia/pawelbakstosia.git
-
-<!--git config --global user.name "Mona Lisa"
-**pawelbakstosia/pawelbakstosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...git config --global user.name "Mona Lisa"
-- 🌱 I’m currently learning ...git config --global user.name "Mona Lisa"
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...git config --global user.name "Mona Lisa"
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there:
+- 🤔 I’m looking for help with:
+- Start coding.
+- 📫 How to reach me:
+- paweltosi@proton.me
+- +48 784 802 125
